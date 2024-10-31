@@ -3,7 +3,7 @@
   "Values": {
     "AzureWebJobsStorage": "UseDevelopmentStorage=true",
     "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
-    "SQLSERVER": "Server=tcp:imageproviderrika.database.windows.net,1433;Initial Catalog=imageprovider;Persist Security Info=False;User ID=SqlAdmin;Password=Bytmig123!;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;"
-
+    "SQLSERVER": "Server=tcp:imageproviderrika.database.windows.net,1433;Initial Catalog=imageprovider;Persist Security Info=False;User ID=SqlAdmin;Password=Bytmig123!;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;",
+    "AZURE_STORAGE_ACCOUNT": "DefaultEndpointsProtocol=https;AccountName=storagerika;AccountKey=CI2d+S9/rW3yDvcLEM8q+7OBDORb6W2H7EjHdZvPQvnRnNyU8tlSnCKaP87J3cbx1Rtz/xEWeMbl+AStWh47bA==;EndpointSuffix=core.windows.net"
   }
 }
