@@ -1,5 +1,5 @@
 # ImageProvider_Rika
-
+https://storagerika.blob.core.windows.net/files/avatar.jpg   , 
 https://storagerika.blob.core.windows.net/files/China_flagg.png , 
 https://storagerika.blob.core.windows.net/files/Denmark_flagg.png , 
 https://storagerika.blob.core.windows.net/files/French_flagg.png , 
